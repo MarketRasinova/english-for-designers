@@ -2,8 +2,7 @@
 
 # Letter I
 
-![uppercase-i-mrasinova](C:\Users\Atomic\Desktop\uppercase-i-mrasinova.jpg)
-
+https://i.imgur.com/e1t2B3d.jpg
 **Alt text:** Arrangement of artificial plants forming a capital letter I.
 
 ------
