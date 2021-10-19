@@ -7,4 +7,4 @@
 
 ------
 
-Markéta Rašínová - photograph 2021.
+Markéta Rašínová - photograph 2021
