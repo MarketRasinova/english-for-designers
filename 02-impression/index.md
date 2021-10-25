@@ -50,6 +50,6 @@ Numbered comments correspond to slide order.
 10. Bried of the challenge
 11. My entry
 12. How I was became a top 4 pick of my favourite creator
-13. And how far did I make it
+13. And how far I made it
 14. Keep on following your dreams
 
