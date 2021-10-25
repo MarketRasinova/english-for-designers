@@ -1,15 +1,17 @@
 # Impression
 
-## My journey — work by Markéta Rašínová
-
+## My favourite portfolio pieces
 
 My name is Markéta Rašínová and I am a graphic designer with passion for package design and brand identity. This presentation is about me and my journey of following my dream.
 
+![Image1](img/Image1.png)
+**Alt text:** A luxurious and feminine package design for a lilac scented candle.
 
-![Image1](img/Image1.PNG)
+![Image2](img/Image2.png)
+**Alt text:** Sweet and refreshing package design of a soap bottle.
 
-![Image2](img/Image2.PNG)
+![Image3](img/Image3.png)
+**Alt text:** A logo design and a brand identity for a made-up brand - The Rug Club. Fun and colourful design.
 
-![Image3](img/Image3.PNG)
-
-![Image4](img/Image4.PNG)
+![Image4](img/Image4.png)
+**Alt text:** A logo design for a brand focused on forged home accessories.
