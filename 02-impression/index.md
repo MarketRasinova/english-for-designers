@@ -2,37 +2,37 @@
 
 ## My journey — work by Markéta Rašínová
 
-![Screenshot from title slide of presentation.](C:\Users\Atomic\Downloads\About me - Marketa Rasinova\Snímek1.PNG)
+![Screenshot from title slide of presentation.](img/Image1.PNG)
 
 My name is Markéta Rašínová and I am a graphic designer with passion for package design and brand identity. This presentation is about me and my journey of following my dream.
 
-![Snímek2](C:\Users\Atomic\Downloads\About me - Marketa Rasinova\Snímek2.PNG)
+![Snímek2](img/Image2.PNG)
 
-![About me - Marketa Rasinova](C:\Users\Atomic\Downloads\About me - Marketa Rasinova\About me - Marketa Rasinova.png)
+![About me - Marketa Rasinova](img/Image3.png)
 
-![Snímek4](C:\Users\Atomic\Downloads\About me - Marketa Rasinova\Snímek4.PNG)
+![Snímek4](img/Image4.PNG)
 
-![Snímek5](C:\Users\Atomic\Downloads\About me - Marketa Rasinova\Snímek5.PNG)
+![Snímek5](img/Image5.PNG)
 
-![Snímek6](C:\Users\Atomic\Downloads\About me - Marketa Rasinova\Snímek6.PNG)
+![Snímek6](img/Image6.PNG)
 
-![Snímek7](C:\Users\Atomic\Downloads\About me - Marketa Rasinova\Snímek7.PNG)
+![Snímek7](img/Image7.PNG)
 
-![Snímek8](C:\Users\Atomic\Downloads\About me - Marketa Rasinova\Snímek8.PNG)
+![Snímek8](img/Image8.PNG)
 
-![Snímek9](C:\Users\Atomic\Downloads\About me - Marketa Rasinova\Snímek9.PNG)
+![Snímek9](img/Image9.PNG)
 
-![Snímek11](C:\Users\Atomic\Downloads\About me - Marketa Rasinova\Snímek11.PNG)
+![Snímek11](img/Image10.PNG)
 
-![Snímek12](C:\Users\Atomic\Downloads\About me - Marketa Rasinova\Snímek12.PNG)
+![Snímek12](img/Image11.PNG)
 
-![Snímek13](C:\Users\Atomic\Downloads\About me - Marketa Rasinova\Snímek13.PNG)
+![Snímek13](img/Image12.PNG)
 
-![Snímek14](C:\Users\Atomic\Downloads\About me - Marketa Rasinova\Snímek14.PNG)
+![Snímek14](img/Image13.PNG)
 
-![Snímek15](C:\Users\Atomic\Downloads\About me - Marketa Rasinova\Snímek15.PNG)
+![Snímek15](img/Image14.PNG)
 
-![Snímek16](C:\Users\Atomic\Downloads\About me - Marketa Rasinova\Snímek16.PNG)
+![Snímek16](img/Image15.PNG)
 
 ### Notes
 
