@@ -44,7 +44,7 @@ Numbered comments correspond to slide order.
 4. Youtube and instagram account of AbiDesign
 5. How much I learned from her tips and videos and how she inspired me
 6. How I followed her tips and made these designs
-7. -||-
+7. Talk about how much I improved
 8. Creative glow challenge and how it works
 9. The challenge I participated in
 10. Bried of the challenge
