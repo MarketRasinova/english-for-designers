@@ -2,7 +2,7 @@
 
 ## My favourite portfolio pieces
 
-My name is Markéta Rašínová and I am a graphic designer with passion for package design and brand identity. This presentation is about me and my journey of following my dream.
+My name is Markéta Rašínová and I am a graphic designer with passion for package design and brand identity. These are my favourite portfolio pieces.
 
 ![Image1](img/Image1.png)
 **Alt text:** A luxurious and feminine package design for a lilac scented candle.
