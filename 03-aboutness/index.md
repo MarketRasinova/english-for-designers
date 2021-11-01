@@ -4,13 +4,13 @@
 
 I'm a graphic designer with passion for package design, stubborn enough to achieve almost anything.
 
-- [My Case Study](case-study.md) <!-- A link to your case study -->
+- [My Case Study✨](case-study.md) <!-- A link to your case study -->
 
 ## My Story
 
-![Alt text: A crazy cat lady holding a fluffy hostage that's already planning an escape.](img/fifo.jpg)
+![Alt text: A crazy cat lady holding a fluffy hostage that's already planning an escape.](img/toffee.jpg)
 
-Alt text: A crazy cat lady holding a fluffy hostage that's already planning an escape.
+[Alt text: A crazy cat lady holding a fluffy hostage that's already planning an escape.]
 
 Ever since I was a little kid, colours made me incredibly happy. So happy, I wanted to surround myself with them. And this love for colours just grew bigger the older I got. 
 
