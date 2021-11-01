@@ -1,5 +1,5 @@
 
-# The Rug Club
+# The Rug Club 🌿
 
 This project is probably my most beloved. Working on this project and succeeding made me believe in myself and see my self worth. 
 
@@ -9,7 +9,7 @@ It was one of many Creative Glow Challenges hosted by Abi Design on instagram.
 
 
 
-## Brief 
+## Brief
 
 **Business name:** The Rug Club
 
