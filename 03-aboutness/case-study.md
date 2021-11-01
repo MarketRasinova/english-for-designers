@@ -25,7 +25,7 @@ It was one of many Creative Glow Challenges hosted by Abi Design on instagram.
 
 
 
-![My designs](C:\Users\Atomic\Desktop\Image3.png)
+![My designs](img/Image3.png)
 
 ## The problem
 
