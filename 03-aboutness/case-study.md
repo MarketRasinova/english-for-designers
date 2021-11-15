@@ -1,11 +1,12 @@
 
 # The Rug Club 🌿
 
-This project is probably my most beloved. Working on this project and succeeding made me believe in myself and see my self worth. 
 
 What was this project exactly?
 
 It was one of many Creative Glow Challenges hosted by Abi Design on instagram.
+
+Working on this project and succeeding made me believe in myself and see my self worth. Even though I had been studying and working part time on top of it, I managed to make time for passion projects such as this one. Participants had one week to create a whole brand identity from scratch and present a unique logo, social media posts and a thank you card.
 
 
 
@@ -38,4 +39,6 @@ The main thing that helped me finish this project was believing in myself, havin
 ## Success
 
 Having fun and letting your creativity flow was definitely the best decision I've made. This lead to me being the top 4 picks of the host, which is my big role model when it comes to designing. I feel like you could just sense the love I've put into it just by looking at my designs. Which makes it even more special to me.
+
+![My designs](img/screenshot.png)
 
