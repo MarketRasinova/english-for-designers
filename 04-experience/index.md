@@ -11,7 +11,7 @@ market.rasinova@seznam.cz
 BcA. Graphic and media design, VŠKK, 2022
 
 ## EXPERIENCE
-### Graphic Designer Junior,
+### Graphic Designer Junior
 **Dorland, marketing agency**
 
 *2021 - present*
