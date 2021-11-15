@@ -40,5 +40,5 @@ The main thing that helped me finish this project was believing in myself, havin
 
 Having fun and letting your creativity flow was definitely the best decision I've made. This lead to me being the top 4 picks of the host, which is my big role model when it comes to designing. I feel like you could just sense the love I've put into it just by looking at my designs. Which makes it even more special to me.
 
-![My designs](img/screenshot.png)
+![My designs](img/screenshot.jpg)
 
