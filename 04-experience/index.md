@@ -39,4 +39,4 @@ Selling and making chocolate pralines, chocolate bars, figures and chocolate spr
 
 
 
-[Download CV (PDF)](pdf/CV - RAŠÍNOVÁ.pdf) 
+[Download CV (PDF)](pdf/CV-RašínováM.pdf) 
