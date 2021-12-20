@@ -1,4 +1,5 @@
-# Voice & Tone
+# Storytelling
+
 #### Why do you love what you do?
 
 ​	I really enjoy the **freedom of creating**. Especially when it comes to package design. Every time I come across a blank mockup, I get hyped to start creating. It's like buying a new sketchbook and being super excited to start drawing in it. 
@@ -13,11 +14,14 @@
 
 ​	Being open to ideas from unexpected places leads to really fun ideas and creative projects. Just noticing small things that make you *YOU* is exciting and builds a more authentic image about your brand or you as a designer.
 
+
 #### Who inspired/inspires you?
+
 
 **Abi Connick**
 
 - A huge role model that inspired me and taught me to believe in myself
+
 
 **Brandon Shepherd**
 
