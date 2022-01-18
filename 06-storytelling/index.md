@@ -1,5 +1,5 @@
 # Storytelling
-
+[My Milanote board](https://app.milanote.com/1N9pq11LRYrka1?p=JLfNAhkgnn8) [*Work in progress*]
 ### Why do you love what you do?
 
 ​	I really enjoy the **freedom of creating**. Especially when it comes to package design. Every time I come across a blank mockup, I get hyped to start creating. It's like buying a new sketchbook and being super excited to start drawing in it. 
