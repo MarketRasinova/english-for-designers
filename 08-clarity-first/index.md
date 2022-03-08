@@ -52,4 +52,4 @@ I researched the brand, their competition and visited stores where the actual pr
 
 ## Inspiration
 ![Inspo](img/9c2559a9fd687952e1f00e5125edbe4b.jpg)
-![Inspo](c9d8a0a2354b5f1addbdb0945905ce45.jpg)
+![Inspo](img/c9d8a0a2354b5f1addbdb0945905ce45.jpg)
