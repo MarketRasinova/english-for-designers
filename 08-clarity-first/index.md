@@ -44,14 +44,6 @@ Package design of ZON lemonades.
 
 This thesis will help me utilize all the knowledge I gained during my studies at this school. The prototype will then serve as a physical demonstration of my skills in the professional portfolio.
 
-## References
-
-<!-- Consider reference style for textual works, data sets, and audiovisual and online media. -->
-
-- [Writing and Developing a Thesis](https://goinswriter.com/writing-a-thesis-2/)
-- …
-- …
-
 ## What problem did the project solve?
 In my thesis I strive to unify and simplify packaginging of ZON lemonades and match the package design with the marketing communication of the brand.
 
