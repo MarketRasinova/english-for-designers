@@ -26,7 +26,7 @@ Package design of ZON lemonades, that is both unified, unique and irresistible t
 
 **1. Background/importance of topic:**
 
-Package design of ZON lemonades. 
+Package design of ZON lemonades. In my thesis, I talk about the journey of creating a package design from start to finish.
 
 **2. Purpose/hypothesis (thesis or statement of problem):**
 
