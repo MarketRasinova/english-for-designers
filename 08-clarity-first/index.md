@@ -34,7 +34,7 @@ Package design of ZON lemonades. In my thesis, I talk about the journey of creat
 
 **3. Research — design/methodology/approach including procedures/data/observations:**
 
-   Research of the market along with product placement in the stores themselves. Analysis of competing brands, their packaging and their communication on the market.
+   Research of the market along with product placement in the stores themselves. Analysis of competing brands, their packaging and their communication on the market. By using an AI, I will test my designs and its effectiveness.
 
 **4. Findings (highlight outcome of research):**
 
