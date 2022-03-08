@@ -49,3 +49,6 @@ In my thesis I strive to unify and simplify packaginging of ZON lemonades and ma
 
 ## What action did you take to do this project?
 I researched the brand, their competition and visited stores where the actual products sell. Based on their brand values and the positioning of the products on store shelves, I’m working on a more suitable package design that will catch the buyers attention and communicates the brand personality better.
+
+## Inspiration
+
