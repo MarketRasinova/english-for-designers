@@ -51,3 +51,9 @@ This thesis will help me utilize all the knowledge I gained during my studies at
 - [Writing and Developing a Thesis](https://goinswriter.com/writing-a-thesis-2/)
 - …
 - …
+
+## What problem did the project solve?
+In my thesis I strive to unify and simplify packaginging of ZON lemonades and match the package design with the marketing communication of the brand.
+
+## What action did you take to do this project?
+I researched the brand, their competition and visited stores where the actual products sell. Based on their brand values and the positioning of the products on store shelves, I’m working on a more suitable package design that will catch the buyers attention and communicates the brand personality better.
