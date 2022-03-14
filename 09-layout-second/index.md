@@ -42,33 +42,33 @@ ZON lemonades, package design, packaging, packaging strategy, design strategy, g
 
 
 #### Moodboard:
-
-![Moodboard](img/7.img)
+![7](img/7-1.jpg)
 
 
 
 #### Package design on a mockup:
 
-![OBALY2](.png)
+![OBALY2](img/OBALY2.png)
 
 #### Shape of the bottle:
 
-![Malinová limonáda Malina ZON Třebíč vratná lahev sklo 1x330ml | Limonády |  pucov.eu](https://pucov.eu/6796-large_default/malinova-limonada-malina-zon-trebic-vratna-lahev-sklo-1x330ml.jpg)
+![Originál](img/9.jpg)
 
 #### Label design:
 
-![Etiketa2-02](C:\Users\Maky\Desktop\škola\5sem\Bakalářka\Soubory\Etiketa2-02.png)
+![Etiketa2-02](img/10.png)
 
 
 
 #### AI testing:
 
-![Malina-02](C:\Users\Maky\Desktop\škola\5sem\Bakalářka\Soubory\AI\Malina-02.png)
+![Malina-02](img/11.png)
 
-![Malina3-02](C:\Users\Maky\Desktop\škola\5sem\Bakalářka\Soubory\AI\Malina3-02.png)![Malina2-02](C:\Users\Maky\Desktop\škola\5sem\Bakalářka\Soubory\AI\Malina2-02.png)
+![Malina3-02](img/12.png)
 
+![Malina3-02](img/13.png)
 #### AI testing of the original label:
 
-![Stará etiketa-AI](C:\Users\Maky\Desktop\škola\5sem\Bakalářka\Soubory\Stará etiketa-AI.png)
+![Stará etiketa-AI](img/14.png)
 
-![Stará etiketa-AI2](C:\Users\Maky\Desktop\škola\5sem\Bakalářka\Soubory\Stará etiketa-AI2.png)
+![Stará etiketa-AI2](img/15.png)
