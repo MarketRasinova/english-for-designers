@@ -12,21 +12,21 @@ ZON lemonades, package design, packaging, packaging strategy, design strategy, g
 
 ####  ZON - brand identity:
 
-![Limonády ZON](https://www.zon.cz/img/zon-erb-onas.png)
+![Logo1](img/1.png)
 
-![Ke stažení - ZON Třebíč dodavatel osvěžujících limonád | Limonády ZON](https://www.zon.cz/soubory/logo_01a.jpg)
+![Logo2](img/2.jpg)
 
-![Snímek obrazovky 2022-03-14 194039](C:\Users\Maky\Pictures\Screenshots\Snímek obrazovky 2022-03-14 194039.png)
+![Website](img/3.png)
 
-![image-20220314194201769](C:\Users\Maky\AppData\Roaming\Typora\typora-user-images\image-20220314194201769.png)
+![Sortiment](img/4.png)
 
 
 
 #### Inspiration:
 
-![img](https://i.pinimg.com/564x/c9/d8/a0/c9d8a0a2354b5f1addbdb0945905ce45.jpg)
+![inspo](img/5.jpg)
 
-![img](https://i.pinimg.com/564x/9c/25/59/9c2559a9fd687952e1f00e5125edbe4b.jpg)
+![inspo](img/6.jpg)
 
 
 
@@ -43,13 +43,13 @@ ZON lemonades, package design, packaging, packaging strategy, design strategy, g
 
 #### Moodboard:
 
-![Moodboard_Kreslicí plátno 2](C:\Users\Maky\Desktop\škola\5sem\Bakalářka\Moodboard\Moodboard_Kreslicí plátno 2.png)
+![Moodboard](img/7.img)
 
 
 
 #### Package design on a mockup:
 
-![OBALY2](C:\Users\Maky\Desktop\škola\5sem\Bakalářka\Moodboard\OBALY2.png)
+![OBALY2](.png)
 
 #### Shape of the bottle:
 
