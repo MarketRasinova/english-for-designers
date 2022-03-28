@@ -46,13 +46,11 @@ ZON lemonades, package design, packaging, packaging strategy, design strategy, g
 
 
 
-#### Package design on a mockup:
+#### My designs:
 
-![OBALY2](img/OBALY2.png)
+![OBALY2](img/obaly.jpg)
 
-#### Shape of the bottle:
-
-![Originál](img/9.jpg)
+![Originál](img/lemonade.jpg)
 
 #### Label design:
 
