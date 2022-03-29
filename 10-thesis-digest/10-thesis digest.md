@@ -4,7 +4,7 @@ Author Name(s): Markéta Rašínová
 
 E-mail(s): market.rasinova@seznam.cz
 
-Acknowledgement(s): I would like to thank Mr. doc. Joachim Rindler for his guidance in the process of writing this thesis. Furthermore to my family for the tremendous help and support throughout the whole process.
+Acknowledgement(s): I would like to thank Mr. doc. Joachim Rindler for his guidance writing this thesis. Furthermore to my family for the tremendous help and support throughout the whole process.
 
 Data Accessibility/Availability Statement: There is no data archived.
 
@@ -16,14 +16,14 @@ Word count: <!-- Digests should be approximately 500 words. Everything below, in
 
 ## Abstract
 
-This paper focuses on a new efficient package design of ZON lemonades. It aims to attract consumers' attention, correspond to ZON's brand values and increase the overall attractiveness of the product. According to a study from 2011, it was found that 44,6 % of interviewed people found the packaging to be outdated. When compared to data from 2022, the unhappiness with the brand's design grew to 73 %. Based on the information gained from both studies and a modern form of effectiveness testing, the focus of this thesis is to rebrand the ZON lemonades with an effective design strategy to highlight the brand's personality and make its products appealing. 
+This paper focuses on a new efficient package design of ZON lemonades. It aims to attract consumers' attention and correspond to ZON's brand. Its main focus is to increase the attractiveness of the product. According to a study from 2011, it was found that 44,6 % of interviewed people found the packaging to be outdated. When compared to data from 2022, the unhappiness with the brand's design grew to 73 %. The design process is based on the information gained from both studies and a modern form of effectiveness testing. Its focus is to rebrand the ZON lemonades with an effective design strategy. It aims to highlight the brand's personality and make its products appealing.
 
 ## Keywords
 
 bottle design, package design, packaging, ZON lemonades
 
 ## Main Text
-This thesis is separated into two sections – theoretical and practical. The first section is focused on the process of designing a package. It dives into the psychology of packaging, how the human brain works and what aspects of packaging design are the most important to highlight. With this knowledge, a designer can create a hierarchy to reach the most effective results. Afterwards, it focuses on design strategy, shopability and effectiveness of the package, with insight into a brand identity and its target audience. The second section introduces ZON, its logo, visual identity and packages. It analyzes the visuals and suggests a strategy to modernize the brand to better communicate its personality. Afterwards, it focuses on the findings of its survey and compares them to the findings of a similar survey from 2011. The results showcase the unhappiness of consumers with the visual identity of ZON. It takes the knowledge and designs a package with a personalized design strategy, a logo and marketing communication. Afterwards, the packaging is tested with an AI tool to stimulate the human eye and compared with the previous design.
+This thesis is separated into two sections – theoretical and practical. The first section is focused on the process of designing a package. It dives into the psychology of packaging and how the human brain works. It talks about what aspects of packaging design are the most important to highlight and how to create an effective hierarchy of elements. Afterwards, it focuses on design strategy, shopability and effectiveness of the package. In the end, it gives an insight into a brand identity and its target audience. The second section introduces ZON, its logo, visual identity and packages. It analyzes the visuals and suggests a strategy to modernize the brand to better communicate its personality. Afterwards, it focuses on the findings of its survey and compares them to the findings of a similar survey from 2011. The results showcase the unhappiness of consumers with the visual identity of ZON. It takes the knowledge and designs a package with a personalized design strategy, a logo and marketing communication. Afterwards, the packaging is tested with an AI tool to stimulate the human eye and compared with the previous 
 <!--
 Consider these four sections:
 
