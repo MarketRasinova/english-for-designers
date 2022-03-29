@@ -4,7 +4,7 @@ Author Name(s): Markéta Rašínová
 
 E-mail(s): market.rasinova@seznam.cz
 
-Acknowledgement(s): NA
+Acknowledgement(s): I would like to thank Mr. doc. Joachim Rindler for his guidance in the process of writing this thesis. Furthermore to my family for the tremendous help and support throughout the whole process.
 
 Data Accessibility/Availability Statement: There is no data archived.
 
