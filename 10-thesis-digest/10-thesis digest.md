@@ -34,6 +34,7 @@ Consider these four sections:
     -->
 
 ## Images
+### The package design:
 ![package](img/obaly.jpg)
 ![lemonade](img/lemonade.jpg)
 
