@@ -54,7 +54,7 @@ ZON lemonades, package design, packaging, packaging strategy, design strategy, g
 
 #### Label design:
 
-![Etiketa2-02](img/10.png)
+![Etiketa2-02](img/10.jpg)
 
 
 
