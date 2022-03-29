@@ -34,5 +34,7 @@ Consider these four sections:
     -->
 
 ## Images
+![package](img/obaly.jpg)
+![lemonade](img/lemonade.jpg)
 
 <!-- Original figure(s) and caption(s) designed by digest author. And remeber to optimize images. -->
