@@ -33,10 +33,6 @@ Consider these four sections:
 4. Discussion connecting this work to other studies – provides added value through citations not included in original study.
     -->
 
-## References
-
-<!-- Use an unordered list, arranged alphabetically by author’s surname.  -->
-
 ## Images
 
 <!-- Original figure(s) and caption(s) designed by digest author. And remeber to optimize images. -->
