@@ -35,7 +35,9 @@ Consider these four sections:
 
 ## Images
 ### The package design:
+During the creation of the new label for ZON lemonades, I wanted to highlight the most important element – the flavour itself. I wanted the fruit to be the star of the whole package and to be recognized even from further away. The brand is known for its long tradition and the nostalgia people feel. I wanted this lemonade to look prestigious and classy. And so I thought of the idea of the fruit being cut out to further highlight the colour of the lemonade itself.
 ![package](img/obaly.jpg)
+Since the original packaging was so busy, I wanted to only keep the most important information and space it out better. So I made the decision of making the label longer and hiding the rest on the sides. This sort of information is not the key that helps people make the decision to buy the product. Thus it is better to hide it to make the centre of the label as spacious and clean as possible. 
 ![lemonade](img/lemonade.jpg)
 
 <!-- Original figure(s) and caption(s) designed by digest author. And remeber to optimize images. -->
