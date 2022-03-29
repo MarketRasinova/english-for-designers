@@ -23,9 +23,7 @@ This paper focuses on a new efficient package design of ZON lemonades. It aims t
 bottle design, package design, packaging, ZON lemonades
 
 ## Main Text
-
-
-
+This thesis is separated into two sections - theoretical and practical. The first section is focused on the process of designing a package. It dives into the psychology of packaging, how the human brain works and what aspects of packaging design are the most important to highlight. Afterwards, it focuses on design strategy, shopability and effectiveness of the package, with insight into a brand identity and its target audience. The second section introduces ZON, its logo, visual identity and packages. Afterwards, it focuses on the findings of a survey and compares them to the findings of a similar survey from 2011. It takes the knowledge and designs packaging with a personalized design strategy. Afterwards, the packaging is tested with an AI tool and compared with the previous design.
 <!--
 Consider these four sections:
 
