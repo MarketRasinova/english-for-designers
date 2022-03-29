@@ -8,7 +8,7 @@ Acknowledgement(s): I would like to thank Mr. doc. Joachim Rindler for his guida
 
 Data Accessibility/Availability Statement: There is no data archived.
 
-Word count: 380<!-- Digests should be approximately 500 words. Everything below, including headings, image captions, etc., except references. -->
+Word count: 541<!-- Digests should be approximately 500 words. Everything below, including headings, image captions, etc., except references. -->
 
 - - -
 
