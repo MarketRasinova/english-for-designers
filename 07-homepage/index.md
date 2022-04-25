@@ -17,7 +17,7 @@ I'm a graphic designer with passion for package design, stubborn enough to achie
 - Case study: [The Rug Club logo design](https://marketrasinova.github.io/english-for-designers/03-aboutness/case-study.html)
 - Experience: [My CV](https://marketrasinova.github.io/english-for-designers/04-experience/)
 - [Voice and tone](https://marketrasinova.github.io/english-for-designers/05-voice-tone/)
-- Storytelling (WIP): [Questions](https://marketrasinova.github.io/english-for-designers/06-storytelling/)
+- Storytelling: [Questions](https://marketrasinova.github.io/english-for-designers/06-storytelling/)
 - Extra: [Takeaways](https://marketrasinova.github.io/english-for-designers/extra-takeaways/)
 
 **Summer semester**
